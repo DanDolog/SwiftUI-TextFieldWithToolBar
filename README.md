@@ -1,7 +1,7 @@
 # SwiftUI-TextFieldWithToolBar
 Solving the problem with keyboard dismissing
 
-Link On Introspect Library https://github.com/siteline/SwiftUI-Introspect
+Link on Introspect Library https://github.com/siteline/SwiftUI-Introspect
 # CODE
 ```swift
 import SwiftUI
